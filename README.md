@@ -70,6 +70,8 @@ drwxr-xr-x  backend/
 drwxr-xr-x  vibes/
     ├── prompt-engineering
     ├── claude
+    ├── Gemini
+    ├── KimiK
     ├── cursor
     └── v0
 ```
