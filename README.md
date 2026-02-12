@@ -86,27 +86,30 @@ drwxr-xr-x  vibes/
  */
 
 const builds = {
-  
-  "d21-voting-system": {
-    desc: "quadratic voting dApp on solana",
-    stack: ["anchor", "rust", "react"],
-    status: "DEPLOYED ✓",
-    tx: "0x..."
-  },
 
-  "expiring-token": {
-    desc: "event tickets + lucky draw mechanics", 
-    stack: ["tron", "solidity", "dex"],
+  "umbra-zk-blackjack": {
+    desc: "provably fair blackjack with ZK proofs on solana",
+    stack: ["noir", "groth16", "anchor", "rust", "next.js", "shadowwire"],
     status: "DEPLOYED ✓",
-    tx: "0x..."
+    repo: "github.com/Ckayz/solanaprivacyhack"
   },
-
-  "defi-dashboards": {
-    desc: "trust-focused vault UI components",
+  "swarm-trading-coach": {
+    desc: "AI multi-agent personalized trading education",
+    stack: ["next.js", "typescript", "supabase", "pinecone", "openai"],
+    status: "DEPLOYED ✓",
+    repo: "github.com/Ckayz/dawinners"
+  },
+  "openclaw-fighter": {
+    desc: "autonomous competitive agent on monad",
+    stack: ["solidity", "erc-8004", "openclaw", "monad"],
+    status: "DEPLOYED ✓",
+    repo: "github.com/Ckayz/molteee"
+  },
+  "neko-dashboard": {
+    desc: "defi transparency dashboard for vault positions",
     stack: ["react", "typescript", "tailwind"],
-    status: "IN_PROGRESS ◉"
+    status: "SHIPPED ✓"
   }
-
 };
 ```
 
