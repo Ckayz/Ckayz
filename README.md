@@ -11,6 +11,7 @@
 
 ```diff
 + fullstack web3 dev | smart contracts to frontend 
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%24+deploying+contracts...;%24+building+interfaces+users+trust...;%24+vibes+compiled+successfully" alt="Typing SVG" />
 
