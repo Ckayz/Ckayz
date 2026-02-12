@@ -123,18 +123,6 @@ mcp-servers ░░░░░░░░░░░░░░░░░░░░ 30%
 
 ---
 
-### `$ cat connect.sh`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-Ckayz-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Ckayz)
-[![X](https://img.shields.io/badge/x-@LCKian88-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/LCKian88)
-[![Telegram](https://img.shields.io/badge/telegram-LCKayz-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/LCKayz)
-
-</div>
-
----
-
 <div align="center">
 
 ```
