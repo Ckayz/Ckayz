@@ -7,7 +7,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
 
-<div align="center">
+
 
 ```diff
 + fullstack web3 dev | smart contracts to frontend 
